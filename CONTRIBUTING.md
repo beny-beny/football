@@ -1,5 +1,7 @@
 # How to Contribute
 
+Bitte sene eine Email an lieblings_Kollege@firma.de
+
 # Issues
 
 * Please tag your issue with `bug`, `feature request`, or `question` to help us
